@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:title="Homepage"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:id="@+id/homeButton"/>
+    <item
+        android:title="Chains"
+        android:icon="@drawable/ic_baseline_code_24"
+        android:id="@+id/chainsButton"/>
+    <item
+        android:title="Markets"
+        android:icon="@drawable/ic_baseline_currency_bitcoin_24"
+        android:id="@+id/marketsButton"/>
+</menu>

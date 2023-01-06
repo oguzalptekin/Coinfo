@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Coinfo</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign Up</string>
+    <string name="login">LOGIN</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="password">Password</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="e_mail">E-Mail</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="coinfo">COINFO</string>
+    <string name="register">Register</string>
+    <string name="password_again">Password Again</string>
+    <string name="have_an_account_log_in">Have an account? Log in</string>
+    <string name="sign_up">SIGN UP</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+</resources>
